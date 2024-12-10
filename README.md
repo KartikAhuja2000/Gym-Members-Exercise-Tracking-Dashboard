@@ -18,3 +18,6 @@ Key Insights
 Technology Used
 - Excel for ETL (Extract, Transform and Load) and Power BI for data visualization and dashboard creation.
 - GitHub for project version control and sharing insights.
+
+![image](https://github.com/user-attachments/assets/dbb591c6-7d7b-4104-9684-db2be0fb5492)
+![GYM Data Page 2 ](https://github.com/user-attachments/assets/d7b79daf-ea20-4d2d-832e-65bab75a2ab2)
